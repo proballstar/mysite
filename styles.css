@@ -1,0 +1,40 @@
+#main{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+
+height: 200px;
+}
+body{
+background-color:  #9be3de;
+color:#00818a;
+}
+.spec{
+text-align: right;
+
+}
+#cred{
+  text-align: right;
+}
+div{
+  margin:50px;
+}
+img{
+width:200px;
+border-radius:50%;
+
+}
+div{
+  height:250px ;
+}
+#rate{
+  height: 300px;
+}
+.sm{
+  padding:0px;
+  margin: 0px;
+  border: 0px;
+  padding-top:10px;
+  padding-bottom:5px;
+}
